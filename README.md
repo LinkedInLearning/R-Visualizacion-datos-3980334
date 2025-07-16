@@ -32,7 +32,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joan-gasull-jolis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/r-visualizacion-de-datos/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQE90JTrkV05jA/learning-public-crop_675_1200/B4EZf4ivjqHwAY-/0/1752221547384?e=2147483647&v=beta&t=d6YBwYVCHsiLm3oY9nvP072Q8bleKxDH39F0yMrOqvc
 
 [1]: # (End of ES-Instruction ###############################################################################################)
